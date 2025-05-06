@@ -46,8 +46,8 @@ This project presents a **comprehensive sales analysis** for **Adventure Works**
 📊 **Valuable case study for business intelligence and data visualization.**  
 
 ---
-!(https://github.com/sabbirjamil/Sales-Analysis-Using-Excel/blob/4cf9f4d44ab63c6e3ff5f9e95a868139d22c688a/page%201.png)
-!(https://github.com/sabbirjamil/Sales-Analysis-Using-Excel/blob/main/page%202.png)
+![](https://github.com/sabbirjamil/Sales-Analysis-Using-Excel/blob/4cf9f4d44ab63c6e3ff5f9e95a868139d22c688a/page%201.png)
+![](https://github.com/sabbirjamil/Sales-Analysis-Using-Excel/blob/main/page%202.png)
 
 ___
 ## **📲 Connect With Me**
